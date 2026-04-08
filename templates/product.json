@@ -194,6 +194,123 @@
         "text_color": ""
       }
     },
+    "custom_liquid_JGnUUx": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": true,
+        "liquid": "<p style=\"text-align: center; font-size: 1.3rem; font-weight: bold; letter-spacing: 0px;\">\n  ÜBER <span style=\"color: #FFD704;\">15.000</span> ZUFRIEDENE PROFIS\n</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_BYVWGq": {
+      "type": "multi-column",
+      "blocks": {
+        "item_DMWKpN": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_32.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_GbLmBb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_35.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_iyC9Fq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_30.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_kKcGtC": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_31.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Hiy6Wd": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_33.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_GRH7jR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_-_2026-03-25T154508.282.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_DMWKpN",
+        "item_GbLmBb",
+        "item_iyC9Fq",
+        "item_kKcGtC",
+        "item_Hiy6Wd",
+        "item_GRH7jR"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -350,6 +467,8 @@
     "slideshow_QL3i4C",
     "custom_liquid_r8Jyad",
     "multi_column_Fjnenh",
+    "custom_liquid_JGnUUx",
+    "multi_column_BYVWGq",
     "main",
     "1775653118922d4f02"
   ]

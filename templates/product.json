@@ -612,6 +612,95 @@
         "lazy": true
       }
     },
+    "media_with_text_KXgnwC": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_8hQ3XD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Titre_20_aa6c06e7-d40c-4dff-ab32-56acc27fbe91.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "UNSERE PROFESSIONELLE GARANTIE",
+            "content": "<p>Wenn unsere Schuhe Ihr Arbeitserlebnis nicht vollständig verbessern, können Sie sie innerhalb von 30 Tagen zurückgeben.</p><p>Vollständige Rückerstattung, ohne Fragen. Denn Ihr Komfort bei der Arbeit sollte niemals verhandelbar sein.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_8hQ3XD"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "faq_PCMdgh": {
+      "type": "faq",
+      "blocks": {
+        "item_MyiQ79": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "item_Dtexph": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_CRf6RA": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_MyiQ79",
+        "item_Dtexph",
+        "item_CRf6RA"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "HÄUFIG GESTELLTE FRAGEN",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "1775653118922d4f02": {
       "type": "apps",
       "blocks": {
@@ -652,6 +741,8 @@
     "multi_column_BYVWGq",
     "main",
     "sslogoscroll_ik44Vz",
+    "media_with_text_KXgnwC",
+    "faq_PCMdgh",
     "1775653118922d4f02"
   ]
 }

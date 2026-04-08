@@ -104,14 +104,14 @@
           "settings": {
             "menu": "footer",
             "show_menu_title": true,
-            "menu_title": ""
+            "menu_title": "RECHTLICHE INFORMATIONEN"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "KUNDENSERVICE",
+            "content": "<p>E-Mail: hello@solydia.com</p><p>Hours: Montag bis Freitag von 9 bis 12 Uhr und von 14 bis 18 Uhr / Samstag und Sonntag von 10 bis 12 Uhr</p>",
             "enable_follow_on_shop": true
           }
         }

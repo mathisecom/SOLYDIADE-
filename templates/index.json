@@ -169,6 +169,90 @@
         "product_card_text_color": ""
       }
     },
+    "sslogoscroll_jfUgxj": {
+      "type": "sslogoscroll",
+      "blocks": {
+        "image_R3U9zk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_37.png",
+            "url": ""
+          }
+        },
+        "image_H3na4g": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_38.png",
+            "url": ""
+          }
+        },
+        "image_c3xtk9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_31_524e2250-d2f9-4518-83ce-b245db73f77e.png",
+            "url": ""
+          }
+        },
+        "image_fKV4iJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_32_c9a857c0-aa18-420c-9924-3c5cd2371dd9.png",
+            "url": ""
+          }
+        },
+        "image_enHD3F": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_32_c9a857c0-aa18-420c-9924-3c5cd2371dd9.png",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_R3U9zk",
+        "image_H3na4g",
+        "image_c3xtk9",
+        "image_fKV4iJ",
+        "image_enHD3F"
+      ],
+      "name": "SS - Scrolling logo cloud #5",
+      "settings": {
+        "layout_radius": 30,
+        "layout_border_thickness": 0,
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 18,
+        "heading_size_mobile": 18,
+        "heading_height": 130,
+        "scrolling_velocity": 24,
+        "scrolling_velocity_mobile": 16,
+        "scrolling_direction": "left",
+        "pause_hover": false,
+        "scrolling_gap": 70,
+        "scrolling_gap_mobile": 22,
+        "card_width_desktop": 130,
+        "card_width_mobile": 130,
+        "heading_color": "#121212",
+        "layout_bg_color": "#FFFFFF",
+        "layout_border_color": "#121212",
+        "background_color": "#FFFFFF",
+        "border_color": "#121212",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 0,
+        "full_width": false,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
     "collection_list_WJmxQn": {
       "type": "collection-list",
       "blocks": {
@@ -458,6 +542,7 @@
     "sslogoscroll_G8TTHF",
     "rich_text_BdHWpB",
     "featured_collection_g9pRpX",
+    "sslogoscroll_jfUgxj",
     "collection_list_WJmxQn",
     "multi_column_QfTttW",
     "text_with_icons_YzqHKY",

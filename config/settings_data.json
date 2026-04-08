@@ -34,6 +34,7 @@
     "heading_letter_spacing": -2,
     "text_font": "montserrat_n4",
     "heading_apparition": "split_fade",
+    "color_swatch_config": "Grau: #808080\nSchwarz: #000000",
     "show_sold_out_badge": false,
     "show_discount": false,
     "product_color_display": "swatch",

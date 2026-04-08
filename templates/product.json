@@ -86,6 +86,8 @@
         "image_NANizW": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Template_Section_benefice_1.jpg",
+            "mobile_image": "shopify://shop_images/FINALLY_SAFETY_SHOES_THAT_DON_T_DESTROY_YOU_6.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",

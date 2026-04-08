@@ -9,9 +9,84 @@
  */
 {
   "sections": {
+    "slideshow_dwcJQw": {
+      "type": "slideshow",
+      "blocks": {
+        "image_K3RcBj": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_K3RcBj"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
+    "rich_text_HLnWGN": {
+      "type": "rich-text",
+      "blocks": {
+        "button_4KL9ne": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "xl",
+            "text": "VERFÜGBARKEIT PRÜFEN",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "button_4KL9ne"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_RTeWDM": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\" style=\"padding-top: 0;\">\n  <div class=\"m-product-text\">\n    <div class=\"product-info__liquid\">\n      <a class=\"image-size\" style=\"display: flex; align-items: center; gap: 8px;\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Stars\" width=\"63\" height=\"13\">\n        <span class=\"text-size\"><b>4,8/5</b> VON <strong><strong>15 000+</strong> <strong>PROFIS</strong></strong></span>\n      </a>\n    </div>\n  </div>\n</div>"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -92,6 +167,7 @@
         }
       },
       "block_order": [
+        "liquid_RTeWDM",
         "title",
         "liquid_e8gG9Q",
         "liquid_p6dbcj",
@@ -153,6 +229,8 @@
     }
   },
   "order": [
+    "slideshow_dwcJQw",
+    "rich_text_HLnWGN",
     "main",
     "1775653118922d4f02"
   ]

@@ -38,6 +38,7 @@
       "block_order": [
         "image_K3RcBj"
       ],
+      "disabled": true,
       "name": "Slideshow",
       "settings": {
         "full_width": true,
@@ -70,6 +71,7 @@
       "block_order": [
         "button_4KL9ne"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -109,6 +111,7 @@
       "block_order": [
         "image_NANizW"
       ],
+      "disabled": true,
       "name": "Slideshow",
       "settings": {
         "full_width": true,
@@ -125,6 +128,7 @@
     },
     "custom_liquid_r8Jyad": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
@@ -184,6 +188,7 @@
         "item_ym63RM",
         "item_rJabXk"
       ],
+      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -200,6 +205,7 @@
     },
     "custom_liquid_JGnUUx": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
@@ -301,6 +307,7 @@
         "item_Hiy6Wd",
         "item_GRH7jR"
       ],
+      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -594,6 +601,7 @@
         "image_zVHRkf",
         "image_krtHrf"
       ],
+      "disabled": true,
       "name": "SS - Scrolling logo cloud #5",
       "settings": {
         "layout_radius": 30,
@@ -661,6 +669,7 @@
       "block_order": [
         "image_8MVgGG"
       ],
+      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": true,
@@ -734,6 +743,7 @@
         "item_4YUT4D",
         "item_7pQAUj"
       ],
+      "disabled": true,
       "name": "Text with icons",
       "settings": {
         "full_width": true,
@@ -776,6 +786,7 @@
       "block_order": [
         "image_aLQp38"
       ],
+      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": true,
@@ -812,6 +823,7 @@
       "block_order": [
         "image_8hQ3XD"
       ],
+      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": true,

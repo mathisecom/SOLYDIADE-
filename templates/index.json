@@ -148,7 +148,14 @@
       "name": "Featured collection",
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "solydia",
+          "solydia™-flex-hose-optimale-sicherheit-und-komfort",
+          "solydia™-max-boot-s3",
+          "solydia™-elite-one-s3-sicherheit-komfort-12-stunden-nonstop",
+          "solydia™-shield-jacket-optimaler-schutz-und-komfort",
+          "solydia™-winter-fleece-optimaler-schutz-und-komfort"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": true,

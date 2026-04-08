@@ -330,9 +330,8 @@
         },
         "liquid_e8gG9Q": {
           "type": "liquid",
-          "disabled": true,
           "settings": {
-            "liquid": "<span class=\"badge-lighter\">45% leichter als herkömmliche Sicherheitsschuhe</span>\n\n<style>\n\n.badge-lighter {\n  display: inline-block;\n  background: #FFD704;\n  color: #000;\n  font-weight: bold;\n  padding: 5px 15px;\n  border-radius: 15px;\n  font-size: 12px;\n  margin-bottom: 0px;\n}\n\n</style>"
+            "liquid": "<span class=\"badge-lighter\">45% leichter als Standardschuhe</span>\n\n<style>\n\n.badge-lighter {\n  display: inline-block;\n  background: #FFD704;\n  color: #000;\n  font-weight: bold;\n  padding: 5px 15px;\n  border-radius: 15px;\n  font-size: 12px;\n  margin-bottom: 0px;\n}\n\n</style>"
           }
         },
         "liquid_p6dbcj": {

@@ -15,6 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/40_Rabatt.jpg",
+            "mobile_image": "shopify://shop_images/Spring_Sale_2.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -38,7 +40,7 @@
       ],
       "settings": {
         "full_width": true,
-        "allow_transparent_header": true,
+        "allow_transparent_header": false,
         "show_initial_transition": false,
         "image_size": "auto",
         "controls_type": "numbers",

@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "ÜBER 15.000 ARBEITER IN BAU, LAGER & INDUSTRIE",
+            "url": ""
+          }
+        },
+        "message_hkN8y7": {
+          "type": "message",
+          "settings": {
+            "text": "✦ FRÜHLINGSANGEBOT -40% ✦",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_hkN8y7"
       ],
       "settings": {
         "enable_sticky": false,

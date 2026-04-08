@@ -438,8 +438,8 @@
             "icon": "none",
             "custom_icon": "shopify://shop_images/water-resources-svgrepo-com.svg",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Wasserdicht",
+            "content": "<p><strong>Die SOLYDIA-Schuhe sind wasserabweisend und WR-zertifiziert (Water Resistant).</strong><br/>Sie bieten einen effektiven Schutz gegen:</p><ul><li>Regen<br/></li><li>Wasserspritzer<br/></li><li>Verschüttungen<br/></li><li>Nasse Oberflächen</li></ul><p>Perfekt für jeden Beruf, der mit Feuchtigkeit in Kontakt kommt.</p>",
             "page": ""
           }
         },
@@ -449,8 +449,8 @@
             "icon": "none",
             "custom_icon": "shopify://shop_images/leaf-svgrepo-com.svg",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Für welche Umgebungen?",
+            "content": "<p><strong>Die SOLYDIA-Schuhe sind S3-zertifiziert und somit für alle anspruchsvollen Arbeitsumgebungen geeignet:</strong></p><p>✓ Harte Böden (Beton, Fliesen, Asphalt)<br/><br/>✓ Langes Stehen (6–12+ Stunden)<br/><br/>✓ Intensive Gehbelastung (mehr als 10.000 Schritte/Tag)<br/><br/>✓ Umgang mit schweren Lasten<br/><br/>✓ Nasse oder fettige Oberflächen (SRC-zertifiziert)<br/><br/>✓ Risiko von herabfallenden Objekten<br/><br/>✓ Risiko von Durchstichen</p><p>Ob drinnen oder draußen, sie erfüllen alle Anforderungen der S3-Zertifizierung.</p>",
             "page": ""
           }
         },
@@ -460,8 +460,8 @@
             "icon": "none",
             "custom_icon": "shopify://shop_images/shield-alt-1-svgrepo-com.svg",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Europäische Norm S3",
+            "content": "<p>Die <strong>SOLYDIA</strong> sind nach <strong>EN ISO 20345 S3</strong> zertifiziert und garantieren:</p><p>✓ <strong>Schutzkappe 200 Joule</strong> (widersteht dem Aufprall schwerer Gegenstände)<br/><br/>✓ <strong>Durchtrittsichere Sohle</strong> (Schutz vor Nägeln und scharfen Gegenständen)<br/><br/>✓ <strong>Rutschhemmende SRC-Sohle</strong> (optimaler Halt auf nassen und öligen Oberflächen)<br/><br/>✓ <strong>Energieabsorption im Fersenbereich</strong> (reduziert Stöße bei wiederholten Belastungen)<br/><br/>✓ <strong>Beständigkeit gegen Kohlenwasserstoffe</strong> (Öle, Kraftstoffe, Chemikalien)<br/><br/>✓ <strong>Wasserabweisendes Obermaterial (WR)</strong> (Schutz vor Wasserspritzern)</p><p>Diese Zertifizierung deckt <strong>95 % der handwerklichen und technischen Berufe</strong> ab.<br/><br/>Wenn Ihr Beruf Sicherheitsschuhe erfordert, <strong>erfüllt die S3-Norm alle Ihre Anforderungen</strong>.</p>",
             "page": ""
           }
         },
@@ -471,8 +471,8 @@
             "icon": "none",
             "custom_icon": "shopify://shop_images/shipping-truck-svgrepo-com.svg",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Versand & Sendungsverfolgung",
+            "content": "<p><strong>Versand innerhalb von 24–48 Stunden – Sendungsverfolgung verfügbar, sobald die Bestellung versandt wurde.</strong></p><p><strong>Lieferzeiten:</strong></p><p>In der Regel werden Bestellungen innerhalb von 5 bis 7 Werktagen (Montag bis Freitag) geliefert.</p>",
             "page": ""
           }
         },
@@ -482,8 +482,8 @@
             "icon": "none",
             "custom_icon": "shopify://shop_images/return-svgrepo-com.svg",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Garantie & Rücksendungen",
+            "content": "<p><strong>30-Tage-Test in Ihrer Arbeitsumgebung.</strong><br/><br/>Wenn unsere Sneaker nicht Ihren Erwartungen entsprechen, bieten wir eine vollständige Rückerstattung an.</p><p><strong>12 Monate Herstellergarantie</strong></p>",
             "page": ""
           }
         }

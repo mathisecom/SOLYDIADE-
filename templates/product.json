@@ -627,7 +627,7 @@
             "subheading": "",
             "title": "DER LOOK EINES SNEAKERS – DER SCHUTZ EINES SICHERHEITSSCHUHS",
             "content": "<p>Mit <strong>Solydia </strong>müssen Sie sich nicht mehr zwischen Komfort, Stil und Sicherheit entscheiden.</p><p>Das moderne, vom Sneaker inspirierte Design macht ihn zum idealen Begleiter für lange Tage – bei der Arbeit und darüber hinaus.</p><p>Statt schwerer, starrer Sicherheitsschuhe erhalten Sie ein stylisches Modell, das Sie auch außerhalb der Arbeit bequem tragen können.</p><p><strong>Das Ergebnis:</strong> Sie fühlen sich den ganzen Tag über leicht, komfortabel und selbstbewusst.</p>",
-            "link_text": "",
+            "link_text": "JETZT KAUFEN",
             "link_url": "",
             "background": "#ffffff",
             "background_gradient": "",
@@ -742,7 +742,7 @@
             "subheading": "",
             "title": "PERFEKTE PASSFORM IN SEKUNDEN",
             "content": "<p>Unser patentiertes Drehverschlusssystem sorgt in nur 2 Sekunden für eine präzise, sichere und individuell angepasste Passform.</p><p>Entwickelt für Männer, die keine Zeit mit schlecht durchdachten Details verschwenden wollen. Eine einfache Bewegung – und Sie sind bereit für Ihren Tag.</p>",
-            "link_text": "",
+            "link_text": "JETZT KAUFEN",
             "link_url": "",
             "background": "#ffffff",
             "background_gradient": "",
@@ -778,14 +778,14 @@
             "subheading": "",
             "title": "UNSERE PROFESSIONELLE GARANTIE",
             "content": "<p>Wenn unsere Schuhe Ihr Arbeitserlebnis nicht vollständig verbessern, können Sie sie innerhalb von 30 Tagen zurückgeben.</p><p>Vollständige Rückerstattung, ohne Fragen. Denn Ihr Komfort bei der Arbeit sollte niemals verhandelbar sein.</p>",
-            "link_text": "",
+            "link_text": "JETZT KAUFEN",
             "link_url": "",
             "background": "#000000",
             "background_gradient": "",
             "text_color": "#ffffff",
             "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
+            "button_background": "#ffffff",
+            "button_text_color": "#000000"
           }
         }
       },

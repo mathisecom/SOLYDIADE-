@@ -825,29 +825,85 @@
         "item_MyiQ79": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Sind sie rutschfest?",
+            "content": "<p>Die <strong>SOLYDIA</strong> MaxOne sind SRC-zertifiziert, der strengsten Rutschfestigkeitsnorm in Europa. Das bedeutet, dass sie getestet und zugelassen wurden auf:</p><ul><li><strong>Nassen Fliesenböden (SR)<br/></strong></li><li><strong>Stahlböden mit Glycerin (SC)</strong></li></ul><p>Die SRC-Zertifizierung kombiniert beide Tests und garantiert maximalen Halt auf allen Oberflächen – egal ob nass, fettig oder ölig. </p><p>Wenn Ihr Job rutschfestes Schuhwerk erfordert, erfüllt der S3-Standard diese Anforderungen vollständig.</p>"
           }
         },
         "item_Dtexph": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Sind sie wasserdicht?",
+            "content": "<p>Die SOLYDIA MaxOne sind wasserabweisend und WR-zertifiziert (Water Resistant). Sie bieten effektiven Schutz gegen:</p><ul><li>Regen<br/></li><li>Wasserspritzer<br/></li><li>Verschüttetes Wasser<br/></li><li>Nasse Oberflächen</li></ul><p>Perfekt für alle Berufe, die Feuchtigkeit ausgesetzt sind.</p>"
           }
         },
         "item_CRf6RA": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Für welche Umgebungen sind sie geeignet?",
+            "content": "<p>Die SOLYDIA sind S3-zertifiziert und somit für alle anspruchsvollen Arbeitsumgebungen geeignet:<br/><br/>✓ Harte Böden (Beton, Fliesen, Asphalt)<br/><br/>✓ Lange Stehzeiten (6–12+ Stunden)<br/><br/>✓ Intensives Gehen (10.000+ Schritte/Tag)<br/><br/>✓ Umgang mit schweren Lasten<br/><br/>✓ Nasse oder fettige Oberflächen (SRC-zertifiziert)<br/><br/>✓ Gefahr durch herabfallende Gegenstände<br/><br/>✓ Durchtrittsgefahr</p><p>Egal, ob Sie drinnen oder draußen arbeiten – sie erfüllen alle Anforderungen der S3-Zertifizierung.</p>"
+          }
+        },
+        "item_zNrQA4": {
+          "type": "item",
+          "settings": {
+            "title": "Wie funktioniert das rotierende Schnürsystem?",
+            "content": "<p>Das rotierende Schnürsystem funktioniert über einen Drehknopf: Im Uhrzeigersinn drehen, um den Schuh zu schließen, gegen den Uhrzeigersinn, um ihn zu lockern. </p><p>Diese Technologie ermöglicht eine präzise, millimetergenaue Anpassung in nur 2 Sekunden und bietet deutlich mehr Geschwindigkeit und Genauigkeit im Vergleich zu herkömmlichen Schnürsenkeln.</p>"
+          }
+        },
+        "item_brkUKP": {
+          "type": "item",
+          "settings": {
+            "title": "Was ist der Unterschied zu meinen aktuellen Sicherheitsschuhen?",
+            "content": "<p>Unsere Sneaker sind 45 % leichter als herkömmliche Sicherheitsschuhe und bieten dennoch den gleichen S3-Schutz. </p><p>Die Einlegesohle aus hochdichtem Memory-Schaum beseitigt Fußschmerzen, und das moderne Design sieht aus wie echte Sneaker. </p><p>Sie erhalten das gleiche Sicherheitsniveau bei revolutionärem Komfort und Stil.</p>"
+          }
+        },
+        "item_P7JrBB": {
+          "type": "item",
+          "settings": {
+            "title": "Erfüllen die SOLYDIA wirklich den S3-Standard?",
+            "content": "<p>Unsere Sneaker sind nach der europäischen Norm EN ISO 20345 S3 zertifiziert, was eine Stahlkappe mit 200 J Stoßfestigkeit, eine Kevlar-Anti-Penetrationssohle, Wasserbeständigkeit und antistatische Eigenschaften garantiert. </p><p>Alle Tests werden von unabhängigen Zertifizierungsstellen überprüft.</p>"
+          }
+        },
+        "item_CNNp3t": {
+          "type": "item",
+          "settings": {
+            "title": "Kann ich sie den ganzen Tag ohne Schmerzen tragen?",
+            "content": "<p>Die Einlegesohle aus hochdichtem Memory-Schaum und die leichte Konstruktion sind speziell für lange Arbeitstage entwickelt. </p><p>Unsere Sneaker wurden bei 12‑stündigen Schichten getestet. Sollten Sie Beschwerden haben, bieten wir eine vollständige 30‑Tage-Geld-zurück-Garantie.</p>"
+          }
+        },
+        "item_PBVUhG": {
+          "type": "item",
+          "settings": {
+            "title": "Hält das Sneaker-Design auch auf Baustellen stand?",
+            "content": "<p>Obwohl sie wie Sneaker aussehen, bestehen unsere Schuhe aus hochfesten Industriewerkstoffen: verstärktes Mesh, versiegelte Nähte und eine professionelle rutschfeste Sohle. </p><p>Sie sind resistent gegen Schlamm, Staub und Spritzer und dennoch leicht zu reinigen.</p>"
+          }
+        },
+        "item_QDfkYV": {
+          "type": "item",
+          "settings": {
+            "title": "Wie wähle ich meine Größe?",
+            "content": "<p>Unsere Größen entsprechen den standardmäßigen europäischen Größen. Wenn Sie zwischen zwei Größen liegen, empfehlen wir, die größere Größe für zusätzlichen Komfort zu wählen. </p><p>Sehen Sie sich unsere detaillierte Größentabelle mit Zentimeterangaben an, die unter den Produktfotos verfügbar ist.</p>"
+          }
+        },
+        "item_cgm74c": {
+          "type": "item",
+          "settings": {
+            "title": "Garantie & Rückgabe",
+            "content": "<p>Unsere 12-monatige Garantie deckt alle Herstellungs- und Materialfehler ab. Normale Abnutzung durch den täglichen Gebrauch ist nicht enthalten. </p><p>Sollte ein Problem auftreten, senden Sie uns einfach ein Foto und eine Beschreibung, und wir stellen bei bestätigtem Defekt einen kostenlosen Ersatz zur Verfügung.</p>"
           }
         }
       },
       "block_order": [
         "item_MyiQ79",
         "item_Dtexph",
-        "item_CRf6RA"
+        "item_CRf6RA",
+        "item_zNrQA4",
+        "item_brkUKP",
+        "item_P7JrBB",
+        "item_CNNp3t",
+        "item_PBVUhG",
+        "item_QDfkYV",
+        "item_cgm74c"
       ],
       "name": "FAQ",
       "settings": {

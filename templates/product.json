@@ -612,6 +612,157 @@
         "lazy": true
       }
     },
+    "media_with_text_H4RqHC": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_8MVgGG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1_480x480_2c6283bb-5942-48c4-9b0b-1967cba4d7f2.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "DER LOOK EINES SNEAKERS – DER SCHUTZ EINES SICHERHEITSSCHUHS",
+            "content": "<p>Mit <strong>Solydia </strong>müssen Sie sich nicht mehr zwischen Komfort, Stil und Sicherheit entscheiden.</p><p>Das moderne, vom Sneaker inspirierte Design macht ihn zum idealen Begleiter für lange Tage – bei der Arbeit und darüber hinaus.</p><p>Statt schwerer, starrer Sicherheitsschuhe erhalten Sie ein stylisches Modell, das Sie auch außerhalb der Arbeit bequem tragen können.</p><p><strong>Das Ergebnis:</strong> Sie fühlen sich den ganzen Tag über leicht, komfortabel und selbstbewusst.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_8MVgGG"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "text_with_icons_G79FbG": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_Reybmr": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/1.webp",
+            "mobile_icon_width": 52,
+            "icon_width": 52,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+          }
+        },
+        "item_BWTqAM": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/3_4abca806-f332-4024-8a5e-6793c5a10740.webp",
+            "mobile_icon_width": 52,
+            "icon_width": 52,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Customer service",
+            "content": "<p>We are available from monday to friday to answer your questions.</p>"
+          }
+        },
+        "item_4YUT4D": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/4_0220e72f-18e4-458a-bef0-1582da9bf77d.webp",
+            "mobile_icon_width": 52,
+            "icon_width": 52,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": "<p>Your payment information is processed securely.</p>"
+          }
+        },
+        "item_7pQAUj": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/2_3b5f8ecc-6e5f-4efc-8543-b4776b1a433c.webp",
+            "mobile_icon_width": 52,
+            "icon_width": 52,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Heading",
+            "content": "<p>Short content about your store</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_Reybmr",
+        "item_BWTqAM",
+        "item_4YUT4D",
+        "item_7pQAUj"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "#f9f9f9",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_with_text_7r4MrN": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_aLQp38": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/CREA1080X1080_40.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "PERFEKTE PASSFORM IN SEKUNDEN",
+            "content": "<p>Unser patentiertes Drehverschlusssystem sorgt in nur 2 Sekunden für eine präzise, sichere und individuell angepasste Passform.</p><p>Entwickelt für Männer, die keine Zeit mit schlecht durchdachten Details verschwenden wollen. Eine einfache Bewegung – und Sie sind bereit für Ihren Tag.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_aLQp38"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
     "media_with_text_KXgnwC": {
       "type": "media-with-text",
       "blocks": {
@@ -741,6 +892,9 @@
     "multi_column_BYVWGq",
     "main",
     "sslogoscroll_ik44Vz",
+    "media_with_text_H4RqHC",
+    "text_with_icons_G79FbG",
+    "media_with_text_7r4MrN",
     "media_with_text_KXgnwC",
     "faq_PCMdgh",
     "1775653118922d4f02"

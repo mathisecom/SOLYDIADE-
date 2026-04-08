@@ -752,7 +752,7 @@
           "settings": {
             "image": "shopify://shop_images/CREA1080X1080_40.webp",
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,

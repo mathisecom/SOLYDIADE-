@@ -416,8 +416,8 @@
             "icon": "none",
             "custom_icon": "shopify://shop_images/crop-svgrepo-com.svg",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Größentabelle",
+            "content": "<p>Unsere Schuhe fallen normal aus, wählen Sie daher bei der Bestellung einfach Ihre übliche Größe. </p><p>Wenn Sie zwischen zwei Größen liegen, empfehlen wir Ihnen, die größere Größe für zusätzlichen Komfort zu wählen. </p><p>Weitere Informationen finden Sie in unserer Größentabelle:</p>",
             "page": ""
           }
         },
@@ -426,8 +426,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Rutschfest",
+            "content": "<p><strong>SOLYDIA-Schuhe sind SRC-zertifiziert, der strengste Rutschhemmungsstandard in Europa.</strong><br/><br/>Das bedeutet, dass sie streng getestet und für die folgenden Anwendungen zugelassen wurden:</p><ol><li><strong>Nasse Fliesen (SR-Bewertung):</strong> Bietet sicheren Halt auf nassen Oberflächen.<br/></li><li><strong>Stahlböden mit Glycerin (SC-Bewertung):</strong> Bietet sicheren Halt auf öligen oder mit Schmierstoffen behandelten Stahlflächen.<br/></li></ol><p>Die <strong>SRC-Zertifizierung</strong> kombiniert beide Tests und garantiert maximalen Grip auf allen Oberflächen, ob nass, fettig oder ölig.</p><p>Wenn Ihr Job leistungsstarke, rutschfeste Sicherheits-Schutzschuhe erfordert, dann entspricht der <strong>S3-Standard</strong> genau Ihren Bedürfnissen.</p>",
             "page": ""
           }
         },

@@ -425,6 +425,7 @@
           "type": "collapsible_text",
           "settings": {
             "icon": "none",
+            "custom_icon": "shopify://shop_images/falling-svgrepo-com.svg",
             "icon_width": 20,
             "title": "Rutschfest",
             "content": "<p><strong>SOLYDIA-Schuhe sind SRC-zertifiziert, der strengste Rutschhemmungsstandard in Europa.</strong><br/><br/>Das bedeutet, dass sie streng getestet und für die folgenden Anwendungen zugelassen wurden:</p><ol><li><strong>Nasse Fliesen (SR-Bewertung):</strong> Bietet sicheren Halt auf nassen Oberflächen.<br/></li><li><strong>Stahlböden mit Glycerin (SC-Bewertung):</strong> Bietet sicheren Halt auf öligen oder mit Schmierstoffen behandelten Stahlflächen.<br/></li></ol><p>Die <strong>SRC-Zertifizierung</strong> kombiniert beide Tests und garantiert maximalen Grip auf allen Oberflächen, ob nass, fettig oder ölig.</p><p>Wenn Ihr Job leistungsstarke, rutschfeste Sicherheits-Schutzschuhe erfordert, dann entspricht der <strong>S3-Standard</strong> genau Ihren Bedürfnissen.</p>",
@@ -435,6 +436,7 @@
           "type": "collapsible_text",
           "settings": {
             "icon": "none",
+            "custom_icon": "shopify://shop_images/water-resources-svgrepo-com.svg",
             "icon_width": 20,
             "title": "Title",
             "content": "<p>Share some content to your customers about your products.</p>",
@@ -445,6 +447,7 @@
           "type": "collapsible_text",
           "settings": {
             "icon": "none",
+            "custom_icon": "shopify://shop_images/leaf-svgrepo-com.svg",
             "icon_width": 20,
             "title": "Title",
             "content": "<p>Share some content to your customers about your products.</p>",
@@ -455,6 +458,18 @@
           "type": "collapsible_text",
           "settings": {
             "icon": "none",
+            "custom_icon": "shopify://shop_images/shield-alt-1-svgrepo-com.svg",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_mjCVNe": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "custom_icon": "shopify://shop_images/shipping-truck-svgrepo-com.svg",
             "icon_width": 20,
             "title": "Title",
             "content": "<p>Share some content to your customers about your products.</p>",
@@ -465,6 +480,7 @@
           "type": "collapsible_text",
           "settings": {
             "icon": "none",
+            "custom_icon": "shopify://shop_images/return-svgrepo-com.svg",
             "icon_width": 20,
             "title": "Title",
             "content": "<p>Share some content to your customers about your products.</p>",
@@ -492,6 +508,7 @@
         "collapsible_text_mDcypJ",
         "collapsible_text_NUbyVd",
         "collapsible_text_UzjHxQ",
+        "collapsible_text_mjCVNe",
         "collapsible_text_W4qmhk"
       ],
       "settings": {

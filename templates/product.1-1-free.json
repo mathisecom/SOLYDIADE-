@@ -24,7 +24,7 @@
             "title": "",
             "heading_tag": "h0",
             "button_text": "",
-            "button_link": "#shopify-section-template--19477750841418__main",
+            "button_link": "#shopify-section-template--19480788172874__main",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
@@ -61,7 +61,7 @@
             "style": "fill",
             "size": "xl",
             "text": "VERFÜGBARKEIT PRÜFEN",
-            "url": "#shopify-section-template--19477750841418__main",
+            "url": "#shopify-section-template--19480788172874__main",
             "background": "",
             "text_color": ""
           }
@@ -346,6 +346,12 @@
           "type": "shopify://apps/bf-size-charts/blocks/block/47ee4f2e-eb5e-41af-9beb-e2786646bf2a",
           "settings": {}
         },
+        "rapi_rapi_bundle_pUGKwj": {
+          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
         "liquid_pi3yQz": {
           "type": "liquid",
           "settings": {
@@ -497,6 +503,7 @@
         "liquid_e8gG9Q",
         "liquid_p6dbcj",
         "bf_size_charts_block_6TWVWj",
+        "rapi_rapi_bundle_pUGKwj",
         "liquid_pi3yQz",
         "badges",
         "price",
@@ -648,7 +655,7 @@
             "title": "DER LOOK EINES SNEAKERS – DER SCHUTZ EINES SICHERHEITSSCHUHS",
             "content": "<p>Mit <strong>Solydia </strong>müssen Sie sich nicht mehr zwischen Komfort, Stil und Sicherheit entscheiden.</p><p>Das moderne, vom Sneaker inspirierte Design macht ihn zum idealen Begleiter für lange Tage – bei der Arbeit und darüber hinaus.</p><p>Statt schwerer, starrer Sicherheitsschuhe erhalten Sie ein stylisches Modell, das Sie auch außerhalb der Arbeit bequem tragen können.</p><p><strong>Das Ergebnis:</strong> Sie fühlen sich den ganzen Tag über leicht, komfortabel und selbstbewusst.</p>",
             "link_text": "JETZT KAUFEN",
-            "link_url": "#shopify-section-template--19477750841418__main",
+            "link_url": "#shopify-section-template--19480788172874__main",
             "background": "#ffffff",
             "background_gradient": "",
             "text_color": "#000000",
@@ -763,7 +770,7 @@
             "title": "PERFEKTE PASSFORM IN SEKUNDEN",
             "content": "<p>Unser patentiertes Drehverschlusssystem sorgt in nur 2 Sekunden für eine präzise, sichere und individuell angepasste Passform.</p><p>Entwickelt für Männer, die keine Zeit mit schlecht durchdachten Details verschwenden wollen. Eine einfache Bewegung – und Sie sind bereit für Ihren Tag.</p>",
             "link_text": "JETZT KAUFEN",
-            "link_url": "#shopify-section-template--19477750841418__main",
+            "link_url": "#shopify-section-template--19480788172874__main",
             "background": "#ffffff",
             "background_gradient": "",
             "text_color": "#000000",
@@ -799,7 +806,7 @@
             "title": "UNSERE PROFESSIONELLE GARANTIE",
             "content": "<p>Wenn unsere Schuhe Ihr Arbeitserlebnis nicht vollständig verbessern, können Sie sie innerhalb von 30 Tagen zurückgeben.</p><p>Vollständige Rückerstattung, ohne Fragen. Denn Ihr Komfort bei der Arbeit sollte niemals verhandelbar sein.</p>",
             "link_text": "JETZT KAUFEN",
-            "link_url": "#shopify-section-template--19477750841418__main",
+            "link_url": "#shopify-section-template--19480788172874__main",
             "background": "#000000",
             "background_gradient": "",
             "text_color": "#ffffff",

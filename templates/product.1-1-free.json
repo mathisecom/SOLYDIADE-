@@ -492,7 +492,7 @@
             "custom_icon": "shopify://shop_images/return-svgrepo-com.svg",
             "icon_width": 20,
             "title": "Garantie & Rücksendungen",
-            "content": "<p><strong>30-Tage-Test in Ihrer Arbeitsumgebung.</strong><br/><br/>Wenn unsere Sneaker nicht Ihren Erwartungen entsprechen, bieten wir eine vollständige Rückerstattung an.</p><p><strong>12 Monate Herstellergarantie</strong></p>",
+            "content": "<p><strong>30-Tage-Test in Ihrer Arbeitsumgebung.</strong><br/><br/>Wenn unsere Sneaker nicht Ihren Erwartungen entsprechen, bieten wir eine vollständige Rückerstattung an.</p>",
             "page": ""
           }
         }
@@ -894,6 +894,7 @@
         },
         "item_cgm74c": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Garantie & Rückgabe",
             "content": "<p>Unsere 12-monatige Garantie deckt alle Herstellungs- und Materialfehler ab. Normale Abnutzung durch den täglichen Gebrauch ist nicht enthalten. </p><p>Sollte ein Problem auftreten, senden Sie uns einfach ein Foto und eine Beschreibung, und wir stellen bei bestätigtem Defekt einen kostenlosen Ersatz zur Verfügung.</p>"

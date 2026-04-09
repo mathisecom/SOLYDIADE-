@@ -62,7 +62,7 @@
             "size": "xl",
             "text": "VERFÜGBARKEIT PRÜFEN",
             "url": "#shopify-section-template--19480788172874__main",
-            "background": "",
+            "background": "#1a1a1a",
             "text_color": ""
           }
         }
@@ -660,7 +660,7 @@
             "background_gradient": "",
             "text_color": "#000000",
             "text_gradient": "",
-            "button_background": "",
+            "button_background": "#1a1a1a",
             "button_text_color": ""
           }
         }
@@ -775,7 +775,7 @@
             "background_gradient": "",
             "text_color": "#000000",
             "text_gradient": "",
-            "button_background": "",
+            "button_background": "#1a1a1a",
             "button_text_color": ""
           }
         }

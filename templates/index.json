@@ -564,6 +564,7 @@
         },
         "item_TfN6tf": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Garantie & Rückgabe",
             "content": "<p>Unsere 12-monatige Garantie deckt alle Herstellungs- und Materialfehler ab. Normale Abnutzung durch den täglichen Gebrauch ist nicht enthalten. </p><p>Sollte ein Problem auftreten, senden Sie uns einfach ein Foto und eine Beschreibung, und wir stellen bei bestätigtem Defekt einen kostenlosen Ersatz zur Verfügung.</p>"

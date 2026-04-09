@@ -346,6 +346,12 @@
           "type": "shopify://apps/bf-size-charts/blocks/block/47ee4f2e-eb5e-41af-9beb-e2786646bf2a",
           "settings": {}
         },
+        "rapi_rapi_bundle_D4Wc3D": {
+          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
         "liquid_pi3yQz": {
           "type": "liquid",
           "settings": {
@@ -497,6 +503,7 @@
         "liquid_e8gG9Q",
         "liquid_p6dbcj",
         "bf_size_charts_block_6TWVWj",
+        "rapi_rapi_bundle_D4Wc3D",
         "liquid_pi3yQz",
         "badges",
         "price",
